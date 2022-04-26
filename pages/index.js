@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Building large structures require time and effort.
+          Building large infrastructure requires time and effort.
           <br />
           <code className={styles.code}>building good websites is no exception!</code>
         </p>
